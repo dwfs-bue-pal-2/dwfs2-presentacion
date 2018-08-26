@@ -1,4 +1,4 @@
-# DWFS2 - Presentación
+# DWFS2 Sede Palermo 2 - Presentación
 
 ### César Muñoz (https://github.com/cesmunoz/)
 
