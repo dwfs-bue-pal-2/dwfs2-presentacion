@@ -5,5 +5,4 @@
 ### Lucas Herrero
 https://github.com/lucasnherrero89/
 
-### Florencia Mendez
-https://github.com/flormendez
+### Florencia Mendez (https://github.com/flormendez)
