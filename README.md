@@ -1,8 +1,4 @@
-﻿<<<<<<< HEAD
-﻿# DWFS2 Presentacion
-=======
-# DWFS2 Sede Palermo 2 - Presentación
->>>>>>> upstream/master
+﻿# DWFS2 Sede Palermo 2 - Presentación
 
 ### César Muñoz (https://github.com/cesmunoz/)
 
@@ -15,4 +11,3 @@
 ### Salvador Serruya (https://github.com/ttSpeaker/)
 
 ### Florencia Mendez (https://github.com/flormendez)
->>>>>>> upstream/master
