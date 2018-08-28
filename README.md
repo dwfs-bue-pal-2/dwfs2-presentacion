@@ -1,7 +1,7 @@
 ﻿# DWFS2 Sede Palermo 2 - Presentación
 
 ### César Muñoz (https://github.com/cesmunoz/)
-<<<<<<< HEAD
+
 ### Jose Di Marco (https://github.com/joseignaciodimarco)
 
 ### Federico Olivarez https://github.com/maledukado
@@ -13,4 +13,5 @@
 ### Florencia Mendez (https://github.com/flormendez)
 
 ### Alberto Artahona (https://github.com/aartahona/)
->>>>>>> river/master
+
+### Michael Colquicocha (https://github.com/Cmichael26/)
