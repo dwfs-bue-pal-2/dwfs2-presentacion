@@ -1,4 +1,4 @@
-﻿# DWFS2 Sede Palermo 2 - Presentación
+# DWFS2 Sede Palermo 2 - Presentación
 
 ### César Muñoz (https://github.com/cesmunoz/)
 
@@ -13,3 +13,5 @@
 ### Florencia Mendez (https://github.com/flormendez)
 
 ### Alberto Artahona (https://github.com/aartahona/)
+
+### Patricio Torello (https://github.com/patorello/)
