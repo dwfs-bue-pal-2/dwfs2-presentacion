@@ -18,9 +18,8 @@
 
 ### Michael Colquicocha (https://github.com/Cmichael26/)
 
-<<<<<<< HEAD
 ### David Calle (https://github.com/dvcalle)
-=======
+
 ### Maju Errazu (https://github.com/MacuErrazu/)
 
->>>>>>> 7d2a8df49af19d11532864f444361638a14ddeea
+### Calixta (https://github.com/calixta/)
