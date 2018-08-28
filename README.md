@@ -17,3 +17,5 @@
 ### Patricio Torello (https://github.com/patorello/)
 
 ### Michael Colquicocha (https://github.com/Cmichael26/)
+
+### David Calle (https://github.com/dvcalle)
