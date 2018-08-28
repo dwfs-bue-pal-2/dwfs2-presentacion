@@ -4,3 +4,5 @@
 
 ### Lucas Herrero
 https://github.com/lucasnherrero89/
+
+### Nicolás Stecher (https://github.com/nicostecher)
