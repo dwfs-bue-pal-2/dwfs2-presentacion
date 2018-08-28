@@ -17,3 +17,6 @@
 ### Patricio Torello (https://github.com/patorello/)
 
 ### Michael Colquicocha (https://github.com/Cmichael26/)
+
+### Maju Errazu (https://github.com/MacuErrazu/)
+
