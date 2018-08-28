@@ -18,10 +18,8 @@
 
 ### Michael Colquicocha (https://github.com/Cmichael26/)
 
-
-
-
-
-
-
 ### Ezequiel Rasgido (https://github.com/chesterlp40)
+
+### David Calle (https://github.com/dvcalle)
+
+### Maju Errazu (https://github.com/MacuErrazu/)
