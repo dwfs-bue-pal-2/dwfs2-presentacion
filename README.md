@@ -24,6 +24,12 @@ https://github.com/lucasnherrero89/
 
 ### Michael Colquicocha (https://github.com/Cmichael26/)
 
+### Ignacio Fárias (https://github.com/IgnaFar)
+
 ### David Calle (https://github.com/dvcalle)
 
 ### Maju Errazu (https://github.com/MacuErrazu/)
+
+### Calixta (https://github.com/calixta/)
+
+### Ignacio Fárias (https://github.com/IgnaFar)
