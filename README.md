@@ -41,3 +41,5 @@
 ### Fabian Lamas (https://github.com/silverfaby/)
 
 ### Matias Frank (https://github.com/matfrank)
+
+### Malena Chizzolini (http://github.com/malenca/)
