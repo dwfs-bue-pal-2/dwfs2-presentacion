@@ -2,6 +2,12 @@
 
 ### César Muñoz (https://github.com/cesmunoz/)
 
+<<<<<<< HEAD
+### Lucas Herrero
+https://github.com/lucasnherrero89/
+
+### Nicolás Stecher (https://github.com/nicostecher)
+
 ### Jose Di Marco (https://github.com/joseignaciodimarco)
 
 ### Federico Olivarez https://github.com/maledukado
