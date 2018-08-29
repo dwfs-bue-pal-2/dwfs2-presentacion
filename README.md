@@ -24,4 +24,6 @@
 
 ### Maju Errazu (https://github.com/MacuErrazu/)
 
+### Calixta (https://github.com/calixta/)
+
 ### Ignacio Fárias (https://github.com/IgnaFar)
