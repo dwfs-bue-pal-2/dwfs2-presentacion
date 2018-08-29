@@ -1,4 +1,4 @@
-﻿# DWFS2 Sede Palermo 2 - Presentación
+# DWFS2 Sede Palermo 2 - Presentación
 
 ### César Muñoz (https://github.com/cesmunoz/)
 
@@ -14,35 +14,22 @@
 
 ### Alberto Artahona (https://github.com/aartahona/)
 
+### Patricio Torello (https://github.com/patorello/)
 
+### Michael Colquicocha (https://github.com/Cmichael26/)
 
+### Ezequiel Rasgido (https://github.com/chesterlp40)
 
+### David Calle (https://github.com/dvcalle)
 
+### Maju Errazu (https://github.com/MacuErrazu/)
 
+### Ignacio Fárias (https://github.com/IgnaFar)
 
+### David Calle (https://github.com/dvcalle)
 
+### Maju Errazu (https://github.com/MacuErrazu/)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Calixta (https://github.com/calixta/)
 
 ### Fabian Lamas (https://github.com/silverfaby/)
