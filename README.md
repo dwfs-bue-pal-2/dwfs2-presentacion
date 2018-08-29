@@ -2,9 +2,7 @@
 
 ### César Muñoz (https://github.com/cesmunoz/)
 
-<<<<<<< HEAD
-### Lucas Herrero
-https://github.com/lucasnherrero89/
+### Lucas Herrero (https://github.com/lucasnherrero89/)
 
 ### Nicolás Stecher (https://github.com/nicostecher)
 
@@ -19,6 +17,8 @@ https://github.com/lucasnherrero89/
 ### Florencia Mendez (https://github.com/flormendez)
 
 ### Alberto Artahona (https://github.com/aartahona/)
+
+### Florencia Farias (https://github.com/florchus/)
 
 ### Patricio Torello (https://github.com/patorello/)
 
