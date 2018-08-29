@@ -18,6 +18,12 @@
 
 ### Michael Colquicocha (https://github.com/Cmichael26/)
 
+### Ezequiel Rasgido (https://github.com/chesterlp40)
+
+### David Calle (https://github.com/dvcalle)
+
+### Maju Errazu (https://github.com/MacuErrazu/)
+
 ### Ignacio Fárias (https://github.com/IgnaFar)
 
 ### David Calle (https://github.com/dvcalle)
@@ -26,4 +32,4 @@
 
 ### Calixta (https://github.com/calixta/)
 
-### Ignacio Fárias (https://github.com/IgnaFar)
+
